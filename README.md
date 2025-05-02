@@ -80,3 +80,9 @@ This project came with some pain—and lessons. Here's where things went sideway
 
   Ran Filebeat without live harvester logs
     Several times, Filebeat appeared "healthy" but wasn’t actually sending any logs due to stale or inactive Docker log files. Took time to realize which containers were producing logs and when.
+
+# Screenshots
+
+**TPOTCE Dashboard**
+
+![image](https://github.com/user-attachments/assets/e72ed326-7cb5-4722-b435-692b319c136e)
